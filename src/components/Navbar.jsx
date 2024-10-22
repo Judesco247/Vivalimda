@@ -60,7 +60,7 @@ const Navbar = () => {
         {/* <li className="md:inline-block  md:ml-10 ml-5 md:my-0 my-6 border-b-2 border-transparent hover:border-white duration-300">
                <Link to="/case-studies" className="cursor-pointer font-Barlow font-bodyfont-700 text-sm inline-block md:py-5 py-3">Case Studies</Link>
             </li> */}
-        <li className="md:inline-block  md:ml-10 ml-5 md:my-0 my-6 border-b-2 border-transparent hover:border-white duration-300">
+        {/* <li className="md:inline-block  md:ml-10 ml-5 md:my-0 my-6 border-b-2 border-transparent hover:border-white duration-300">
           <Link
             to="/news"
             className={`cursor-pointer font-bodyfont-700 text-sm inline-block md:py-5 py-3 ${
@@ -70,7 +70,7 @@ const Navbar = () => {
           >
             News
           </Link>
-        </li>
+        </li> */}
         <li className="md:inline-block  md:ml-10 ml-5 md:my-0 my-6 border-b-2 border-transparent hover:border-white duration-300">
           <button className="w-[150px] py-3 px-3 text-[13px] font-bold text-color0 border-2 border-color0 hover:text-white hover:bg-color0 font-bodyfont-400 ">
             <Link

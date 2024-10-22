@@ -80,9 +80,9 @@ const Contact = () => {
             <p className="text-white text-[13px] font-bodyfont-400 pt-5">
               <span className="text-white">Email:</span> info@atendiconsulting.com
             </p>
-            <p className="text-white text-[13px] font-bodyfont-400 pt-2">
+            {/* <p className="text-white text-[13px] font-bodyfont-400 pt-2">
               <span className="text-white">Phone Number:</span> +441908103520
-            </p>
+            </p> */}
           </div>
           <div className="container mx-auto p-2 mt-4">
             <div class="w-full flex justify-between md:flex-row-2 flex-col pt-6">
@@ -432,9 +432,9 @@ const Contact = () => {
           <p className="text-white text-[13px] font-bodyfont-400 pt-5">
             Email:info@atendiconsulting.com
           </p>
-          <p className="text-white text-[13px] font-bodyfont-400 pt-2">
+          {/* <p className="text-white text-[13px] font-bodyfont-400 pt-2">
             Phone Number:+441908103520
-          </p>
+          </p> */}
         </div>
 
         <div className="container mx-auto p-2 mt-4">

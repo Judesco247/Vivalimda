@@ -147,11 +147,11 @@ const Footer = () => (
                   Milton Keynes <br />
                   MK9 1FD <br />England.
                 </li>
-                <li
+                {/* <li
                   className={`text-color2 text-[13px] font-bodyfont-700 pt-5 block `}
                 >
                  +441908103520
-                </li>
+                </li> */}
                 <li
                   className={`text-color2 text-[13px] font-bodyfont-700 pt-5 block `}
                 >
