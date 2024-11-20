@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from '../style'
-import { Navbar, Serviceheader, Wedo, CardDeal, Difference, Contact, Footer, Business, PrivacyPolicy } from '../components'
+import { PrivacyPolicy } from '../components'
 
 const Privacy = () => (
     <div className='bg-dimWhite w-full overflow-hidden'>
