@@ -15,6 +15,7 @@ import BusAnalyst from './pages/BusAnalyst.jsx'
 import Knowledge from './pages/Knowledge.jsx'
 import Integration from './pages/Integration.jsx'
 import ProjectManagement from './pages/ProjectManagement.jsx'
+import Privacy from './pages/Privacy.jsx'
 // import ScrollToTop from './components/ScrollToTop.jsx'
 import Home from './pages/Home.jsx' 
 
@@ -70,6 +71,10 @@ export const router = [
   {
     path: "/project-management",
     element: <ProjectManagement />,
+  },
+  {
+    path: "/Privacy",
+    element: <Privacy />,
   },
 ];
 

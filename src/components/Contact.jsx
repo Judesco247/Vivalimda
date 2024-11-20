@@ -78,7 +78,7 @@ const Contact = () => {
               England.
             </p>
             <p className="text-white text-[13px] font-bodyfont-400 pt-5">
-              <span className="text-white">Email:</span> info@atendiconsulting.com
+              <span className="text-white">Email:</span> info@vivalimda.com
             </p>
             {/* <p className="text-white text-[13px] font-bodyfont-400 pt-2">
               <span className="text-white">Phone Number:</span> +441908103520
@@ -430,7 +430,7 @@ const Contact = () => {
             England.
           </p>
           <p className="text-white text-[13px] font-bodyfont-400 pt-5">
-            Email:info@atendiconsulting.com
+            Email:info@vivalimda.com
           </p>
           {/* <p className="text-white text-[13px] font-bodyfont-400 pt-2">
             Phone Number:+441908103520

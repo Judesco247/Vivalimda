@@ -76,7 +76,7 @@ const Contactwhite = () => {
               England.
             </p>
             <p className="text-color2 text-[13px] font-bodyfont-400 pt-5">
-              <span className="text-color9">Email:</span> info@atendiconsulting.com
+              <span className="text-color9">Email:</span> info@vivalimda.com
             </p>
             {/* <p className="text-color2 text-[13px] font-bodyfont-400 pt-2">
               <span className="text-color9">Phone Number:</span> +441908103520
@@ -584,7 +584,7 @@ const Contactwhite = () => {
             England.
           </p>
           <p className="text-color2 text-[13px] font-bodyfont-400 pt-5">
-            <span className="text-color9">Email:</span> info@atendiconsulting.com
+            <span className="text-color9">Email:</span> info@vivalimda.com
           </p>
           {/* <p className="text-color2 text-[13px] font-bodyfont-400 pt-2">
             <span className="text-color9">Phone Number:</span> +441908103520

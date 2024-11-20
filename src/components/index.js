@@ -64,9 +64,11 @@ import ServiceArea from "./ServiceArea";
 import ManageProject from "./ManageProject";
 import Industries2 from "./Industries2";
 import ScrollToTop from "./ScrollToTop";
+import PrivacyPolicy from "./PrivacyPolicy";
 
 
 export {
+  PrivacyPolicy,
   ScrollToTop,
   Industries2,
   ManageProject,

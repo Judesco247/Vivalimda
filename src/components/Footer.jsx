@@ -155,7 +155,7 @@ const Footer = () => (
                 <li
                   className={`text-color2 text-[13px] font-bodyfont-700 pt-5 block `}
                 >
-                  info@atendiconsulting.com
+                 info@vivalimda.com 
                 </li>
               </ul>
             </div>
