@@ -209,7 +209,7 @@ const Footer = () => (
             Legal Information{" "}
           </Link>
           <Link
-            to="/Privacy"
+            to="/privacy"
             className={`text-color2 text-[13px] font-bodyfont-700 hover hover:text-background pt-5 cursor-pointer block`}
           >
             Privacy Policy{" "}
