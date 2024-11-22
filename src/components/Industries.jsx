@@ -9,7 +9,7 @@ import {
   government,
   education,
   banking,
-  logo,
+  vivalimdalogo,
 } from "../assets";
 import "../App.css";
 import styles from "../style";
@@ -39,8 +39,8 @@ const Industries = () => (
             <div className="w-52 h-52 left-[16px] top-[16px] absolute rounded-full border-2 border-background" />
             <div className="w-32 h-32 left-[55px] top-[58px] absolute rounded-full border-2 border-background" />
             <img
-              className="w-20 h-20 left-[80px] top-[78px] absolute"
-              src={logo}
+              className="w-32 h-[110px] left-[60px] top-[60px] absolute"
+              src={vivalimdalogo}
               alt="industries"
               width={0}
               height={0}

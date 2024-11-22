@@ -138,8 +138,10 @@ import Frame from "./Frame.png";
 import check from "./check.svg";
 import chevronUp from "./chevron-up.svg";
 import chevronDown from "./chevron-down.svg";
+import vivalimdalogo from "./vivalimdalogo1.png";
 
 export {
+  vivalimdalogo,
   chevronUp,
   chevronDown,
   check,

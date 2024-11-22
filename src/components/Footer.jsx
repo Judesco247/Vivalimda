@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "../style";
-import { logo, globe, facebook, instagram, twitter, linkedin } from "../assets";
+import { vivalimdalogo, globe, facebook, instagram, twitter, linkedin } from "../assets";
 import { Link } from "react-router-dom";
 import { footerLinks, socialMedia2 } from "../constants";
 
@@ -8,7 +8,7 @@ const Footer = () => (
   <div className={`sm:px-16 px-6 flex justify-center items-start mt-10`}>
     <div className=" xl:max-w-[1280px] w-full">
       <div class="flex flex-col">
-        <img src={logo} alt="atendi" className="w-[77px] h-[81px]" />
+        <img src={vivalimdalogo} alt="vivalimda" className="w-[150px] h-[170px]" />
       </div>
       <hr class="border-2 border-color1" />
       <div className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
